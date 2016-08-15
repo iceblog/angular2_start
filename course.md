@@ -63,7 +63,7 @@ brew install git
 
 ````
 git init
-git remote add origin https://github.com/mbcrump/SampleProject.git
+git remote add origin  https://github.com/iceblog/angular2_start.git 
 git push -u origin master
 ```
 ---
