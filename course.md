@@ -61,9 +61,9 @@ $(npm bin)/typings 安装编译依赖的*.d.ts文件
 brew install git
 ```
 
-````
+```
 git init
-git remote add origin  https://github.com/iceblog/angular2_start.git 
+git remote add origin 
 git push -u origin master
 ```
 ---
