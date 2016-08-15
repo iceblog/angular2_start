@@ -60,6 +60,12 @@ $(npm bin)/typings 安装编译依赖的*.d.ts文件
 ```python
 brew install git
 ```
+
+````
+git init
+git remote add origin https://github.com/mbcrump/SampleProject.git
+git push -u origin master
+```
 ---
 <script type="text/javascript"
    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
